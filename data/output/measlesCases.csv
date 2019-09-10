@@ -1,0 +1,15 @@
+county,total,pediatric,adult
+Alameda,1,0,1
+Los Angeles,18,3,15
+Orange,5,2,3
+Placer,3,2,1
+Sacramento,3,2,1
+San Bernardino,2,1,1
+San Diego,2,1,1
+San Francisco,1,0,1
+San Mateo,5,1,4
+Santa Barbara,2,0,2
+Santa Clara,5,1,4
+Santa Cruz,1,0,1
+Other,19,3,16
+Total,67,16,51
